@@ -7,10 +7,15 @@
 </head>
 <body>
     <h1>Forms + Express</h1>
-    <form action="http://localhost:3000/disciplinas">
+    <form action="http://localhost:3000/disciplinas" method="post">
         <label for="sigla">Sigla</label>
         <!-- name é o atributo que vai ser passado para o servidor -->
         <input type="text" id="sigla" name="sigla">
+
+        <label for="equivalencia">Equivalência</label>
+        <input type="text" id="equivalencia" name="equivalencia">
+        <label for="ementa">Ementa</label>
+        <input type="text" id="ementa" name="ementa">
         <button>Enviar</button>
 
     </form>

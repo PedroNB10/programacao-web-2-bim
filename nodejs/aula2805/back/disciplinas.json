@@ -43,50 +43,14 @@
   },
   {
     "id": 8,
-    "sigla": "COM999",
-    "ementa": "ementa boa",
-    "equivalencia": "nao ha"
+    "sigla": "XDES03",
+    "ementa": "Engenharia de Software II",
+    "equivalencia": "CSES03"
   },
   {
     "id": 9,
-    "sigla": "ab",
-    "ementa": "cd",
-    "equivalencia": "Não Há"
-  },
-  {
-    "id": 10,
-    "sigla": "ab",
-    "ementa": "cd",
-    "equivalencia": "Não Há"
-  },
-  {
-    "id": 11,
-    "sigla": "ab",
-    "ementa": "cd",
-    "equivalencia": "Não Há"
-  },
-  {
-    "id": 12,
-    "sigla": "ab",
-    "ementa": "cd",
-    "equivalencia": "Não Há"
-  },
-  {
-    "id": 13,
-    "sigla": "ab",
-    "ementa": "cd",
-    "equivalencia": "Não Há"
-  },
-  {
-    "id": 14,
-    "sigla": "ab",
-    "ementa": "cd",
-    "equivalencia": "Não Há"
-  },
-  {
-    "id": 15,
-    "sigla": "XDES01",
-    "ementa": "fundamentos",
-    "equivalencia": "Não Há"
+    "sigla": "XDES03",
+    "ementa": "Engenharia de Software II",
+    "equivalencia": "CSES03"
   }
 ]
