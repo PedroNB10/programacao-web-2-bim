@@ -1,0 +1,44 @@
+[
+  {
+    "id": 129031,
+    "nome": "Pousada Maria da Fé",
+    "avaliacao": 4.9,
+    "preco": 150
+  },
+  {
+    "id": 129331,
+    "nome": "Casa da Montanha",
+    "avaliacao": 4.8,
+    "preco": 250
+  },
+  {
+    "id": 129033,
+    "nome": "Pousada Ar Puro",
+    "avaliacao": 4.9,
+    "preco": "240"
+  },
+  {
+    "id": 129034,
+    "nome": "Hotel Vila Maria",
+    "avaliacao": 4.7,
+    "preco": 140
+  },
+  {
+    "id": 129035,
+    "nome": "Café e Sono",
+    "avaliacao": 4.69,
+    "preco": 96
+  },
+  {
+    "id": 1718241567673,
+    "nome": "Vale dos Sonhos",
+    "avaliacao": "4.78",
+    "preco": "76.00"
+  },
+  {
+    "id": 1718276639382,
+    "nome": "Hotel Ciriaco",
+    "avaliacao": "2.5",
+    "preco": "34"
+  }
+]
