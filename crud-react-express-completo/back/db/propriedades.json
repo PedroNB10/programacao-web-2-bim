@@ -1,0 +1,26 @@
+[
+  {
+    "id": 129035,
+    "nome": "Café e Sono",
+    "preco": "340.99",
+    "avaliacao": "4.83"
+  },
+  {
+    "id": 1718752471633,
+    "nome": "Hotel Paçoca",
+    "preco": "460.00",
+    "avaliacao": "5.00"
+  },
+  {
+    "id": 1718753267205,
+    "nome": "Hotel Star Wars",
+    "preco": "600.00",
+    "avaliacao": "5.00"
+  },
+  {
+    "id": 1719264567645,
+    "nome": "Hotel World of Warcraft",
+    "preco": "500.40",
+    "avaliacao": "5.00"
+  }
+]

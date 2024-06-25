@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "teste",
+    "email": "teste@teste.com.br",
+    "password": "$2b$10$qHpHIAjAfYy9lK5yrWL8N.QVhDCpM13giX6gguGU.hgZjE6CRDbJe"
+  },
+  {
+    "id": 2,
+    "username": "teste2",
+    "email": "teste2@teste.com.br",
+    "password": "$2b$10$sJZmZeUm6lKmGkq7YluYLO72gC1NzzLszRGAfHnjLCAloiONY2ahS"
+  },
+  {
+    "id": 3,
+    "username": "testepedro",
+    "email": "pedro@teste.com",
+    "password": "$2b$10$bQlYzZ0PckHBMP8dvsEANOPaf6xdP1Dv/BEchZUn2SW7pM3s/IpH6"
+  }
+]
