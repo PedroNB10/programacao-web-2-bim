@@ -16,5 +16,23 @@
     "username": "testepedro",
     "email": "pedro@teste.com",
     "password": "$2b$10$bQlYzZ0PckHBMP8dvsEANOPaf6xdP1Dv/BEchZUn2SW7pM3s/IpH6"
+  },
+  {
+    "id": 4,
+    "username": "pedro",
+    "email": "pedro@teste1.com",
+    "password": "$2b$10$W7cfc2P2thMm..8sZHexHepp/j5k2FWsh4P6FJH1VW4d.bhDaTmOe"
+  },
+  {
+    "id": 5,
+    "username": "slaa",
+    "email": "sla@teste.com",
+    "password": "$2b$10$mo2JOfmW9vrcSnQvzrx2XuREdXPSzcMKfJ6mn8agwa8KWXG.O86I6"
+  },
+  {
+    "id": 6,
+    "username": "pedro2",
+    "email": "pedro2@teste.com",
+    "password": "$2b$10$TIQy1wbtLkcgMn/xnjkgIuCrk4yz6xEuo5VFbOdV41vg6apakWqSS"
   }
 ]
